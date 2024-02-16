@@ -1,0 +1,1 @@
+print("Привет,Python!\nHello,Python!\nBonjour,Python!\nHey,Python!\nHola,Python!")
