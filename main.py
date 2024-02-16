@@ -1,4 +1,5 @@
-print("Hello,Python!")
+print("Привет,Python!")
+
 
 print("Привет,Python!")
 print("Hello,Python!")
